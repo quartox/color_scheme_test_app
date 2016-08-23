@@ -2,7 +2,7 @@
 
 **Running pilot copy of shiny app from Rstudio**
 
-Go to `shiny-pilot` folder
+Go to `shiny-modular` folder
 
 Packages to check for:
 
