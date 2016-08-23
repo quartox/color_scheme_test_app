@@ -6,6 +6,7 @@ Go to `shiny-pilot` folder
 
 Packages to check for:
 
+* loggr (which comes from [here](https://github.com/smbache/loggr))
 * shiny
 * colorspace
 * colorRamps
@@ -14,8 +15,6 @@ Packages to check for:
 
 Run app from `server.R` file
 
-Data automatically saves into `results` folder with a coded name
-
-Other sample questions can be found in `shiny-master`
+Data automatically saves into json file with the `results` folder with a coded name
 
 
