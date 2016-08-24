@@ -17,4 +17,4 @@ Run app from `server.R` file
 
 Data automatically saves into json file with the `results` folder with a coded name
 
-
+[Ishihara test](http://colorvisiontesting.com/ishihara.htm)
